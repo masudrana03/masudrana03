@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
 <h3 align="center">A passionate Full stack developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/masudrana_sv" target="blank"><img src="https://img.shields.io/twitter/follow/masudranasv?logo=twitter&style=for-the-badge" alt="masudranasv" /></a> </p>
+<p align="left"> <a href="https://twitter.com/masudrana_sv" target="blank"><img src="https://img.shields.io/twitter/follow/masudrana_sv?logo=twitter&style=for-the-badge" alt="masudrana_sv" /></a> </p>
 
 - 🔭 I’m currently working on [Golden time network](www.goldentimenetwork.com)
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/masudranasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masudranasv" height="30" width="40" /></a>
+<a href="https://twitter.com/masudrana_sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masudrana_sv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/masudrana-sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masudrana-sv" height="30" width="40" /></a>
 <a href="https://fb.com/03masudrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="03masudrana" height="30" width="40" /></a>
 <a href="https://instagram.com/masudrana-sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masudrana-sv" height="30" width="40" /></a>
