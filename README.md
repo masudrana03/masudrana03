@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ Metrocery ](http://grocery.binary-fusion.com/)
 
-- 🌱 I’m currently learning **React , skillshare.com**
+- 🌱 I’m currently learning **Vue , skillshare.com**
 
 - 👯 I’m looking to collaborate on [tailwind-boilerplate](https://github.com/hasinhayder/tailwind-boilerplate)
 
