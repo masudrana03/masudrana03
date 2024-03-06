@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/masudrana_sv" target="blank"><img src="https://img.shields.io/twitter/follow/masudrana_sv?logo=twitter&style=for-the-badge" alt="masudrana_sv" /></a> </p>
 
-- 🔭 I’m currently working on [ Metrocery ](http://grocery.binary-fusion.com/)
+- 🔭 I’m currently working on [ Migration Bridge ](https://migrationbridge.io/)
 
-- 🌱 I’m currently learning **Vue , skillshare.com**
+- 🌱 I’m currently learning **React , skillshare.com**
 
 - 👯 I’m looking to collaborate on [tailwind-boilerplate](https://github.com/hasinhayder/tailwind-boilerplate)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [masudrana.com](masudrana.com)
 
-- 💬 Ask me about **PHP,laravel & WordPress**
+- 💬 Ask me about **PHP,laravel,WordPress & React**
 
 - 📫 How to reach me **masudrana.sv@gmail.com**
 
