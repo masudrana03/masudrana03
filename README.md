@@ -1,37 +1,73 @@
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
-<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
+<h3 align="center">🚀 Senior Full Stack Developer | Laravel, React, Shopify, MERN | From Bangladesh 🇧🇩</h3>
 
-<p align="left"> <a href="https://twitter.com/masudrana_sv" target="blank"><img src="https://img.shields.io/twitter/follow/masudrana_sv?logo=twitter&style=for-the-badge" alt="masudrana_sv" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/masudrana_sv" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/masudrana_sv?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/masudrana-sv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://masudrana.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=firefox" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [ Migration Bridge ](https://migrationbridge.io/)
+---
 
-- 🌱 I’m currently learning **React , skillshare.com**
+### 👨‍💻 About Me  
+- 🔭 **Currently Working On:** [Anuncify](https://anuncify.app/) – Laravel + Shopify Polaris + React + Vite  
+- 🌱 **Currently Learning:** Advanced React, Next.js, AI tools, Shopify API (Admin & Storefront)  
+- 💡 **Core Expertise:** Laravel, Inertia.js, React, Shopify Embedded Apps, Tailwind CSS, MERN Stack  
+- 🤝 **Looking to Collaborate On:** Shopify apps, MERN projects, AI-powered web tools  
+- 📝 **Articles & Projects:** [masudrana](https://masud.pro)  
+- 📫 **Contact Me:** `masudrana.sv@gmail.com`  
+- ⚡ **Fun Fact:** I love building tools that make developers’ lives easier (like CLI tools & Chrome extensions)
 
-- 👯 I’m looking to collaborate on [tailwind-boilerplate](https://github.com/hasinhayder/tailwind-boilerplate)
+---
 
-- 🤝 I’m looking for help with [tailwind-boilerplate](https://github.com/hasinhayder/tailwind-boilerplate)
+### 🚀 Tech Stack & Tools
+**Backend:** Laravel, PHP, Node.js, Express.js, Symfony, CodeIgniter  
+**Frontend:** React, Inertia.js, Next.js, Vue, Tailwind CSS, Bootstrap, Materialize  
+**Shopify Development:** Polaris, App Bridge, GraphQL, REST API, Shopify Embedded Apps  
+**Database:** MySQL, MongoDB, PostgreSQL  
+**DevOps & Tools:** Docker, Git, Postman, AWS, Linux, Vite, Webpack  
+**Design:** Photoshop, Figma, Canva  
+**Other:** Chrome Extensions, CLI tools, AI API Integrations (OpenAI, Ollama)
 
-- 👨‍💻 All of my projects are available at [masudrana.com](masudrana.com)
+---
 
-- 📝 I regularly write articles on [masudrana.com](masudrana.com)
+### 🏆 Key Projects
+- **Shopify Embedded App:** Laravel + React + Polaris, with global state management & GraphQL integration  
+- **Global CLI Tool – Lazy Dev Shell:** Automates developer setup with Laravel Prompts  
+- **Resume Builder:** Laravel + Filament + AI text improvement  
+- **Chrome Extension Password Manager:** Captures and sends login credentials to Laravel backend  
+- **Interactive Math Games for Kids:** React + Canvas API  
+- **Brick Puzzle Game:** React.js + Drag & Drop + Scoring system
 
-- 💬 Ask me about **PHP,laravel,WordPress & React**
+---
 
-- 📫 How to reach me **masudrana.sv@gmail.com**
+### 🎯 2025 Learning Goals
+1. Master **Shopify Embedded Apps**  
+2. Build **React standalone & MERN stack projects**  
+3. Understand **AI model workings** and fine-tuning  
+4. Explore **Next.js, Nuxt.js, Svelte, Angular, Django**  
+5. Develop cross-platform **Chrome & mobile apps**  
 
-- 📄 Know about my experiences [masudrana.com](masudrana.com)
+---
 
-- ⚡ Fun fact **i am boring**
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masudrana03&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masudrana03&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect With Me
 <p align="left">
 <a href="https://twitter.com/masudrana_sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masudrana_sv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/masudrana-sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masudrana-sv" height="30" width="40" /></a>
 <a href="https://fb.com/03masudrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="03masudrana" height="30" width="40" /></a>
 <a href="https://instagram.com/masudrana-sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masudrana-sv" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masudrana03&show_icons=true&locale=en" alt="masudrana03" /></p>
