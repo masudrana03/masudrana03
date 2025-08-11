@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/masudrana-sv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://masudrana.com" target="_blank">
+  <a href="https://masud.pro" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=firefox" />
   </a>
 </p>
