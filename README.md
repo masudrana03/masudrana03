@@ -47,7 +47,7 @@
 
 ---
 
-### 🎯 2025 Learning Goals
+### 🎯 2026 Learning Goals
 1. Master **Shopify Embedded Apps**  
 2. Build **React standalone & MERN stack projects**  
 3. Understand **AI model workings** and fine-tuning  
